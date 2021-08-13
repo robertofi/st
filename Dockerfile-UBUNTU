@@ -1,0 +1,41 @@
+### 1. Get Linux
+#FROM alpine:3.7
+#FROM python:3.8.9-buster
+#-alpine3.11
+#FROM ubuntu:20.04
+FROM ubuntu:18.04
+#FROM centos:7
+#FROM python:3.7-slim-stretch
+
+
+sudo apt-get update
+wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda.sh
+bash ~/miniconda.sh -b -p ~/miniconda
+echo "PATH=$PATH:$HOME/miniconda/bin" >> ~/.bashrc
+source ~/.bashrc
+JAVA_HOME= /usr/lib/jvm/java-8-openjdk-amd64/
+# Install OpenJDK-8
+sudo apt-get update &&   sudo  apt-get install -y openjdk-8-jdk &&   sudo  apt-get install -y ant &&   sudo  apt-get clean
+# Fix certificate issues
+sudo apt-get update &&  sudo   apt-get install ca-certificates-java &&  sudo   apt-get clean &&   sudo  update-ca-certificates -f
+sudo apt-get update  && sudo apt-get install -y python3-pip python3-dev  && sudo cd /usr/local/bin  && sudo ln -s /usr/bin/python3 python  && sudo pip3 install --upgrade pip
+
+sudo git clone https://github.com/robertofi/st/
+cd st
+pip3 install -r requirements.txt
+cd ..
+sudo chmod 777 st
+cd st
+
+tmux
+streamlit run main.py --server.port 8080
+
+
+
+
+
+
+
+
+
+
