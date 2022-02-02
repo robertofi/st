@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88260351-72c7-45f5-ae1c-bc8752a2f089" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iarbStats_live.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iarbStats_paper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/st.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/st.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Install/B3toXLS" beforeDir="false" afterPath="$PROJECT_DIR$/Install/B3toXLS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Install/B3toXLS/.idea/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Install/B3toXLS/.idea/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Install/B3toXLS/.idea/inspectionProfiles/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Install/B3toXLS/.idea/inspectionProfiles/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Install/B3toXLS/B3toXLS/.idea/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Install/B3toXLS/B3toXLS/.idea/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Install/B3toXLS/B3toXLS/.idea/inspectionProfiles/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Install/B3toXLS/B3toXLS/.idea/inspectionProfiles/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Install/B3toXLS/B3toXLS/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Install/B3toXLS/B3toXLS/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Install/B3toXLS/B3toXLS/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Install/B3toXLS/B3toXLS/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Install/B3toXLS/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Install/B3toXLS/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Install/B3toXLS/read.me" beforeDir="false" afterPath="$PROJECT_DIR$/Install/B3toXLS/read.me" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Install/B3toXLS/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Install/B3toXLS/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Install/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Install/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/app/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toParse/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/app/toParse/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toParse/parsed/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/app/toParse/parsed/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iarbStats.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Install/B3toXLS" />
+  </component>
+  <component name="ProjectId" id="22STTQw4k7fXHmrfqvlOjeIGW5u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88260351-72c7-45f5-ae1c-bc8752a2f089" name="Changes" comment="" />
+      <created>1639829996267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639829996267</updated>
+      <workItem from="1639829998132" duration="825000" />
+      <workItem from="1641851381978" duration="975000" />
+      <workItem from="1641854383253" duration="31000" />
+    </task>
+    <servers />
+  </component>
+</project>
